@@ -1,0 +1,44 @@
+.container {
+    width: 200px;
+    min-height: 120px;
+    border: none;
+    border-left: gold 4px solid;
+    align-self: center;
+    margin-top: 10%;
+    
+}
+
+.quotesContent {
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+    flex-wrap: wrap;
+    color: black;
+    padding: 10px;
+}
+
+.showList {
+    display: block;
+}
+
+.hideList {
+    display: none;
+}
+
+.logo {
+    margin-left: 96%;
+}
+
+.buttonAuthor {
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    color: black;
+    border: black 1px solid;
+    margin-top: 15px;
+}
+
+.buttonAuthor:hover {
+    background-color: black;
+    color: white;
+}

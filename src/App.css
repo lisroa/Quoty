@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 255, 235);
+}
+
+.App {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-left: 45%;
+  margin-top: 5%;
+}
