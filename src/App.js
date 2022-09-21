@@ -57,21 +57,66 @@ const quotes = [
 },
 {
   content: "La sabiduría nos llega cuando ya no nos sirve de nada.", 
-  author: "Gabriel García Márquez ",
+  author: "Gabriel García Márquez",
   id:'10'
   
 },
 {
-  content: "La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.”", 
-  author: "Gabriel García Márquez ",
+  content: "La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.", 
+  author: "Gabriel García Márquez",
   id:'11'
   
 },
 {
   content: "No hay medicina que cure lo que no cura la felicidad", 
-  author: "Gabriel García Márquez ",
+  author: "Gabriel García Márquez",
   id:'12'
   
+},
+{
+  content: "Las palabras, al igual que la naturaleza, medio revelan y ocultan la mitad del alma dentro", 
+  author: "Tennyson",
+  id:'13'
+},
+{
+  content: "Yo soy una parte de todo aquello que he encontrado en mi camino", 
+  author: "Tennyson",
+  id:'14'
+},
+{
+  content: "Es mejor haber amado y perdido, que jamás haber amado", 
+  author: "Tennyson",
+  id:'15'
+},
+{
+  content: "Para mi corazón basta tu pecho, para tu libertad bastan mis alas", 
+  author: "Neruda",
+  id:'16'
+},
+{
+  content: "Para que nada nos separe, que nada nos una", 
+  author: "Neruda",
+  id:'17'
+},
+{
+  content: "Si nada nos salva de la muerte, al menos que el amor nos salve de la vida", 
+  author: "Neruda",
+  id:'18'
+},
+{
+  content: "La soledad es el imperio de la conciencia", 
+  author: "Bécquer",
+  id:'19'
+},
+{
+  content: "Ese soy yo, que acaso cruzo el mundo, sin pensar de dónde vengo, ni a dónde mis pasos me llevarán", 
+  author: "Bécquer",
+  id:'20'
+},
+{
+  content: "¿Por qué te enamoras de él, si no sabe el color de tus ojos, cuando yo he contado hasta tus pestañas?",
+  author: "Bécquer",
+  id:'21'
 }
 ]
 
