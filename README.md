@@ -1,5 +1,5 @@
 
-<p align="center"> Pon a prueba tus conocimientos de geografia con este juego! Responde preguntas aleatorias sobre geografia y descubre tu puntaje final. </p>
+<p align="center"> Quoty es una aplicacion divertida que te saluda con una nueva cita inspiradora <br/>cada vez que la abres. </p>
 
 <div>
   
