@@ -1,3 +1,6 @@
+
+<p align="center"> Pon a prueba tus conocimientos de geografia con este juego! Responde preguntas aleatorias sobre geografia y descubre tu puntaje final. </p>
+
 <div>
   
   <ul align="center">
